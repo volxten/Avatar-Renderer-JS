@@ -1,5 +1,5 @@
 const fs = require("fs");
-const createGL = require("create-headless-gl"); 
+const createGL = require("webgl-stub"); 
 const { PNG } = require("pngjs");
 const { mat4, vec3 } = require("gl-matrix");
 
