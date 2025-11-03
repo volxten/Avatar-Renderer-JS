@@ -44,7 +44,7 @@
   },
   "decals": {
     "head": "./publicAssets/faces/face.png",
-    "torso": "./publicAssets/tShirts/nove.png"
+    "torso": "./assets/noShirt.png"
   },
   "hat": {
     "mesh": "./publicAssets/hatAssets/viking.obj",
