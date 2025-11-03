@@ -110,7 +110,7 @@ class AvatarRenderer {
         this.uDecal = gl.getUniformLocation(program, "uDecal");
         this.uUseDecal = gl.getUniformLocation(program, "uUseDecal");
 
-        const radius = 8, 
+        const radius = 9, 
         theta = Math.PI / 7, 
         phi = Math.PI / 3;
         const camX = radius * Math.sin(phi) * Math.sin(theta);
