@@ -1,5 +1,5 @@
 # <center>Avatar Renderer JS</center>  
-<center>## ...Or ARJS for short.</center>  
+## <center>...Or ARJS for short.</center>   
 <center>For rendering ROBLOX avatars **WITHOUT** RCC service!</center>  
 
 
